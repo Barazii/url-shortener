@@ -1,6 +1,6 @@
 # URL Shortener (C++)
 
-A minimal SQLite-backed URL shortener implemented in modern C++ (C++20). Based on an original C version; redesigned with RAII, exceptions, and <random> for secure code generation.
+A minimal SQLite-backed URL shortener implemented in modern C++ (C++20). Based on an original [C version](https://github.com/dexter-xD/project-box/tree/main/url-shortener); redesigned with RAII, exceptions, and <random> for secure code generation.
 
 ## Features
 - Generates unique 7-character codes (62 charset)
