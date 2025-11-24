@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/shortener_tests.dir/tests/shortener_tests.cpp.o -o shortener_tests  libshortener.a /usr/lib/x86_64-linux-gnu/libsqlite3.so 
