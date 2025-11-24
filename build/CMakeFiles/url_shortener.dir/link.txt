@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/url_shortener.dir/src/main.cpp.o -o url_shortener  libshortener.a /usr/lib/x86_64-linux-gnu/libsqlite3.so 

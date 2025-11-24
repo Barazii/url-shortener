@@ -1,6 +1,0 @@
-/home/mahmood/url-shortener/build/CMakeFiles/shortener.dir
-/home/mahmood/url-shortener/build/CMakeFiles/url_shortener.dir
-/home/mahmood/url-shortener/build/CMakeFiles/shortener_tests.dir
-/home/mahmood/url-shortener/build/CMakeFiles/test.dir
-/home/mahmood/url-shortener/build/CMakeFiles/edit_cache.dir
-/home/mahmood/url-shortener/build/CMakeFiles/rebuild_cache.dir

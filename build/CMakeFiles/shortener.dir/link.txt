@@ -1,2 +1,0 @@
-/usr/bin/ar qc libshortener.a CMakeFiles/shortener.dir/src/Shortener.cpp.o
-/usr/bin/ranlib libshortener.a
